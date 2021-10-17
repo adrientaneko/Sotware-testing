@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Trello API test" tests="6" time="1.824">
+  <testsuite name="Create board" id="d54fc672-e78e-4212-8cfd-fb51287e6961" timestamp="2021-10-17T19:38:29.118Z" tests="2" failures="0" errors="0" time="0.428">
+    <testcase name="Status code is 200" time="0.428" classname="TrelloApiTest"/>
+    <testcase name="Check board name" time="0.428" classname="TrelloApiTest"/>
+  </testsuite>
+  <testsuite name="Create list TODO" id="f16203ae-8c5f-45ab-be01-1aedfb0dd627" timestamp="2021-10-17T19:38:29.118Z" tests="4" failures="0" errors="0" time="0.215">
+    <testcase name="Status code is 200" time="0.215" classname="TrelloApiTest"/>
+    <testcase name="Check list name" time="0.215" classname="TrelloApiTest"/>
+    <testcase name="Check list is not closed" time="0.215" classname="TrelloApiTest"/>
+    <testcase name="List is created in API_test board" time="0.215" classname="TrelloApiTest"/>
+  </testsuite>
+  <testsuite name="Create list DONE" id="8655ae12-b490-4abc-872d-0601a1de4fb6" timestamp="2021-10-17T19:38:29.118Z" tests="4" failures="0" errors="0" time="0.197">
+    <testcase name="Status code is 200" time="0.197" classname="TrelloApiTest"/>
+    <testcase name="Check list name" time="0.197" classname="TrelloApiTest"/>
+    <testcase name="Check list is not closed" time="0.197" classname="TrelloApiTest"/>
+    <testcase name="List is created in API_test board" time="0.197" classname="TrelloApiTest"/>
+  </testsuite>
+  <testsuite name="Create card Learn postman-TODO" id="4dad4f46-2a76-4951-bfc4-f7a5b89d98d3" timestamp="2021-10-17T19:38:29.118Z" tests="4" failures="0" errors="0" time="0.237">
+    <testcase name="Status code is 200" time="0.237" classname="TrelloApiTest"/>
+    <testcase name="Check card name" time="0.237" classname="TrelloApiTest"/>
+    <testcase name="Check card is not closed" time="0.237" classname="TrelloApiTest"/>
+    <testcase name="card is created in TODO list" time="0.237" classname="TrelloApiTest"/>
+  </testsuite>
+  <testsuite name="Move card to DONE" id="9577c1ff-788b-4e72-bfe2-ed45b0003b90" timestamp="2021-10-17T19:38:29.118Z" tests="4" failures="0" errors="0" time="0.257">
+    <testcase name="Status code is 200" time="0.257" classname="TrelloApiTest"/>
+    <testcase name="Check card name" time="0.257" classname="TrelloApiTest"/>
+    <testcase name="Check card is not closed" time="0.257" classname="TrelloApiTest"/>
+    <testcase name="card is in DONE list" time="0.257" classname="TrelloApiTest"/>
+  </testsuite>
+  <testsuite name="Delete Trello board" id="ed7fa7d1-9224-4c7e-aa64-95ee83203387" timestamp="2021-10-17T19:38:29.118Z" tests="1" failures="0" errors="0" time="0.490">
+    <testcase name="Status code is 200" time="0.490" classname="TrelloApiTest"/>
+  </testsuite>
+</testsuites>

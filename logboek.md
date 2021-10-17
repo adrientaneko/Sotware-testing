@@ -15,8 +15,12 @@ link naar Postman collectie : https://www.getpostman.com/collections/2552286d63c
 * Opzoeken en aankoop van udemy cursus
 * installatie van postman
 * Opnemen van sectie 1-2 + quiz en labo's
+* Documentatie
 
-## 11/10 - 1.5 uur (1ste gastcollege)
-
+## 11/10 - 6 uur (1ste gastcollege)
+* Opnemen van sectie 3-7 + quizes
+* installatie van newman omgeving
+* installatie en debuggen van jenkins omgeving
+* Documentatie
 
 # Totale duur : 3 uur
