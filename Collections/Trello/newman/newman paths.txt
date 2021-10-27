@@ -1,0 +1,6 @@
+Locally:
+cd C:\Users\tanek\OneDrive - ODISEE\3TI\Sotware-testing\Collections\Trello
+newman run "Trello API test.postman_collection.json" --environment "Trello.postman_environment.json" --reporters cli,junit,htmlextra --reporter-junit-export "newman/report.xml" --reporter-html-export "newman/report.html"
+
+GIT:
+newman run "Collections/Trello/Trello API test.postman_collection.json" --environment "Collections/Trello/Trello.postman_environment.json" --reporters cli,junit,htmlextra --reporter-junit-export "newman/report.xml" --reporter-html-export "newman/report.html"

@@ -23,4 +23,14 @@ link naar Postman collectie : https://www.getpostman.com/collections/2552286d63c
 * installatie en debuggen van jenkins omgeving
 * Documentatie
 
-# Totale duur : 3 uur
+## 18/10 - 4 uur (2de gastcollege)
+* Opnemen van sectie 7-9 + quizes
+* installatie en debuggen van docker
+* testen uitvoeren met Docker
+* Documentatie
+
+## 25/10 - 2 uur (3de gastcollege)
+* Opnemen van sectie 9-10 + quizes
+* Documentatie
+
+# Totale duur : 17 uur
