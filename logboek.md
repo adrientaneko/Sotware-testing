@@ -33,4 +33,10 @@ link naar Postman collectie : https://www.getpostman.com/collections/2552286d63c
 * Opnemen van sectie 9-10 + quizes
 * Documentatie
 
-# Totale duur : 17 uur
+## 02/11 - 3 uur (Lesvrijweek)
+* Opnemen van sectie 10-12 + quizes
+* Oefening werken met postman-Git
+* Oefening werken met postman-team workspaces (met medestudent)
+* Documentatie
+
+# Totale duur : 20 uur
